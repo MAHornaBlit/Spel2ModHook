@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Spel2ModHook">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Spel2ModHook.cpp">
+      <Filter>Spel2ModHook</Filter>
+    </ClCompile>
+    <ClCompile Include="Spel2ModTools.cpp">
+      <Filter>Spel2ModHook</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Spel2ModHook.h">
+      <Filter>Spel2ModHook</Filter>
+    </ClInclude>
+    <ClInclude Include="Spel2ModTools.h">
+      <Filter>Spel2ModHook</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
